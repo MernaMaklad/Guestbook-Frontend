@@ -1,0 +1,50 @@
+.main-container
+{
+    padding: 1rem;
+    
+
+}
+
+
+.form-container
+{
+    
+    width: fit-content;
+    margin: 100px auto;
+   
+}
+
+.input-field-container
+{
+    text-align: start;
+    margin: 25px 0px;
+}
+
+.input-field
+{
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border: 1.5px solid lightcoral;
+    border-radius: 25px;
+    border-collapse: collapse;
+}
+
+.input-label
+{
+    margin: 0px 10px;
+    font-size: large;
+}
+
+.login-button
+{
+    padding: 10px;
+    background-color: lightcoral;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 200px;
+    margin: 0px auto;
+    border-radius: 25px;
+}

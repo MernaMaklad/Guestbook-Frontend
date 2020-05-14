@@ -1,0 +1,11 @@
+.message-container
+{
+    border: 1px solid black;
+}
+.reply-container
+{
+    border: 1px solid black;
+}
+.message-input{
+    color: black;
+}
